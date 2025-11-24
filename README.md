@@ -1,6 +1,18 @@
-\# Arthur CD para PC no GitHub
+!\[ArthurCDLogo](arts/Logo.png)
 
 
 
-Setup do jogo Arthur CD para baixar no GitHub em "Releases"
+Arthur CD is a mod from Sonic CD (RSDK Version)
+
+
+
+\## Character
+
+
+
+!\[Arthur](arts/Arthur.png)
+
+
+
+Arthur is a human destined to save Little Planet (like Sonic in Sonic CD).
 
