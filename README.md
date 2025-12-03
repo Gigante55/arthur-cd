@@ -1,4 +1,4 @@
-!\[ArthurCDLogo](arts/Logo.png)
+![ArthurCDLogo](arts/Logo.png)
 
 
 
@@ -6,11 +6,11 @@ Arthur CD is a mod from Sonic CD (RSDK Version)
 
 
 
-\## Character
+# Character
 
 
 
-!\[Arthur](arts/Arthur.png)
+![Arthur](arts/Arthur.png)
 
 
 
